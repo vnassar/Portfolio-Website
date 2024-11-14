@@ -1,0 +1,44 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+@using Microsoft.AspNetCore.Components
+
+<PageTitle>My Portfolio</PageTitle>
+
+<link rel="stylesheet" href="mediaqueries.css" />
+
+<div class="navbar">
+    <div class="logo">Victor Nassar</div>
+
+    <!-- Modern Hamburger Icon -->
+    <button class="hamburger-icon @iconClass" @onclick="ToggleMenu">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+    <!-- Mobile Menu Links -->
+    <ul class="menu-links @menuClass">
+        <li><a href="about" @onclick="CloseMenu">About</a></li>
+        <li><a href="experience" @onclick="CloseMenu">Experience</a></li>
+        <li><a href="projects" @onclick="CloseMenu">Projects</a></li>
+        <li><a href="contact" @onclick="CloseMenu">Contact</a></li>
+    </ul>
+</div>
+
+@code {
+    private string menuClass = "";
+    private string iconClass = "";
+
+    private void ToggleMenu()
+    {
+        menuClass = menuClass == "open" ? "" : "open";
+        iconClass = iconClass == "open" ? "" : "open";
+    }
+
+    private void CloseMenu()
+    {
+        menuClass = "";
+        iconClass = "";
+    }
+}
