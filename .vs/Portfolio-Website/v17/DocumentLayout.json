@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -59,12 +59,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAD4vxsAAAAUAAAAAAAAAA==",
+              "Title": "index.razor",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\index.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\index.razor",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\index.razor",
+              "RelativeToolTip": "Components\\Pages\\index.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T16:15:14.665Z",
               "EditorCaption": ""
