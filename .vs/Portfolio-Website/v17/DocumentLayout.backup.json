@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\wwwroot\\mediaqueries.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -26,11 +30,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 986,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T20:06:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
@@ -38,25 +54,24 @@
               "RelativeToolTip": "wwwroot\\app.css",
               "ViewState": "AgIAABUCAAAAAAAAAAAAACMCAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-13T16:17:29.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T16:17:29.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAB4AAAAAAAAAAAD4vx8AAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vxsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T16:15:14.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-14T00:19:15.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T00:19:15.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "mediaqueries.css",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
               "RelativeDocumentMoniker": "wwwroot\\mediaqueries.css",
@@ -77,8 +91,7 @@
               "RelativeToolTip": "wwwroot\\mediaqueries.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-13T17:13:30.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T17:13:30.667Z"
             }
           ]
         },
