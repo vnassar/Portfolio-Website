@@ -1,0 +1,7 @@
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\Portfolio-Website.exe
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\appsettings.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\Portfolio-Website.dll
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\Portfolio-Website.deps.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\Portfolio-Website.runtimeconfig.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Release\net8.0\publish\Portfolio-Website.pdb

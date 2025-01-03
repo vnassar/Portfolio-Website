@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Portfolio-Website.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Portfolio-Website.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Portfolio-Website.r3p064aruu.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
@@ -87,6 +87,10 @@
     {
       "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
       "PackagePath": "staticwebassets\\mediaqueries.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssets.props",

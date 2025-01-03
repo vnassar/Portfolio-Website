@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Portfolio-Website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Portfolio-Website.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\BikeSelfie.png",
+      "PackagePath": "staticwebassets\\assets\\BikeSelfie.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\about-pic.png",
+      "PackagePath": "staticwebassets\\assets\\about-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\arrow.png",
+      "PackagePath": "staticwebassets\\assets\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\bikeselfie2.jpg",
+      "PackagePath": "staticwebassets\\assets\\bikeselfie2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\checkmark.png",
+      "PackagePath": "staticwebassets\\assets\\checkmark.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\education.png",
+      "PackagePath": "staticwebassets\\assets\\education.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\email.png",
+      "PackagePath": "staticwebassets\\assets\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\experience.png",
+      "PackagePath": "staticwebassets\\assets\\experience.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\github.png",
+      "PackagePath": "staticwebassets\\assets\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\profile-pic-2.png",
+      "PackagePath": "staticwebassets\\assets\\profile-pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\profile-pic.png",
+      "PackagePath": "staticwebassets\\assets\\profile-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\project-1.png",
+      "PackagePath": "staticwebassets\\assets\\project-1.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\project-2.png",
+      "PackagePath": "staticwebassets\\assets\\project-2.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\project-3.png",
+      "PackagePath": "staticwebassets\\assets\\project-3.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\assets\\resume-example.pdf",
+      "PackagePath": "staticwebassets\\assets\\resume-example.pdf"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
+      "PackagePath": "staticwebassets\\mediaqueries.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Portfolio-Website.props",
+      "PackagePath": "build\\Portfolio-Website.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Portfolio-Website.props",
+      "PackagePath": "buildMultiTargeting\\Portfolio-Website.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Portfolio-Website.props",
+      "PackagePath": "buildTransitive\\Portfolio-Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

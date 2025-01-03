@@ -28,3 +28,7 @@ C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\ne
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\Portfolio-Website.genruntimeconfig.cache
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\ref\Portfolio-Website.dll
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\Portfolio-Website.sourcelink.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Debug\net8.0\Portfolio-Website.staticwebassets.endpoints.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
