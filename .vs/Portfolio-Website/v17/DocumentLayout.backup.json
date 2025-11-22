@@ -3,15 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\optin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\optin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\apitest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\apitest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\models\\matchmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:models\\matchmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\models\\profilemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:models\\profilemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -22,16 +35,27 @@
       "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:wwwroot\\mediaqueries.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\pages\\optin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\pages\\optin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47660E1A-66BE-41D3-B813-6FF62211D837}|Portfolio-Website.csproj|c:\\users\\vnass\\desktop\\projects\\portfolio-website\\portfolio-website\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -49,45 +73,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 986,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Optin.razor",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Optin.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Optin.razor",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Optin.razor",
-              "RelativeToolTip": "Components\\Pages\\Optin.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T20:24:09.534Z",
+              "DocumentIndex": 1,
+              "Title": "MatchModels.cs",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\MatchModels.cs",
+              "RelativeDocumentMoniker": "Models\\MatchModels.cs",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\MatchModels.cs",
+              "RelativeToolTip": "Models\\MatchModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T03:59:14.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\PinellasNutritionBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs",
-              "RelativeToolTip": "..\\..\\PinellasNutritionBackend\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApiTest.razor",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\ApiTest.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ApiTest.razor",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\ApiTest.razor",
+              "RelativeToolTip": "Components\\Pages\\ApiTest.razor",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswJ8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T22:50:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileModels.cs",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\ProfileModels.cs",
+              "RelativeDocumentMoniker": "Models\\ProfileModels.cs",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\ProfileModels.cs",
+              "RelativeToolTip": "Models\\ProfileModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:29:17.115Z",
+              "WhenOpened": "2025-11-20T22:49:09.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T16:15:14.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:45:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Models\\AuthModels.cs",
+              "RelativeToolTip": "Models\\AuthModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:47:11.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
+              "RelativeToolTip": "wwwroot\\app.css",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAuwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T16:17:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -99,7 +208,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "mediaqueries.css",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
+              "RelativeDocumentMoniker": "wwwroot\\mediaqueries.css",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
+              "RelativeToolTip": "wwwroot\\mediaqueries.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T17:13:30.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-13T00:50:59.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -111,19 +244,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:45:29.102Z"
+              "DocumentIndex": 8,
+              "Title": "Optin.razor",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Optin.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Optin.razor",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Optin.razor",
+              "RelativeToolTip": "Components\\Pages\\Optin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T20:24:09.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T00:46:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -135,32 +280,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\app.css",
-              "RelativeToolTip": "wwwroot\\app.css",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-13T16:17:29.253Z"
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\PinellasNutritionBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\PinellasNutritionBackend\\Program.cs",
+              "RelativeToolTip": "..\\..\\PinellasNutritionBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T03:29:17.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAANMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T16:15:14.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -169,18 +301,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-14T00:19:15.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mediaqueries.css",
-              "DocumentMoniker": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
-              "RelativeDocumentMoniker": "wwwroot\\mediaqueries.css",
-              "ToolTip": "C:\\Users\\vnass\\Desktop\\Projects\\Portfolio-Website\\Portfolio-Website\\wwwroot\\mediaqueries.css",
-              "RelativeToolTip": "wwwroot\\mediaqueries.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-13T17:13:30.667Z"
             }
           ]
         },
@@ -199,6 +319,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

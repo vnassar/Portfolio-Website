@@ -13,11 +13,6 @@ C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\ne
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\Portfolio-Website.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.build.Portfolio-Website.props
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portfolio-Website.props
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portfolio-Website.props
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\scopedcss\bundle\Portfolio-Website.styles.css
@@ -30,5 +25,10 @@ C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\ne
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\Portfolio-Website.sourcelink.json
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\bin\Debug\net8.0\Portfolio-Website.staticwebassets.endpoints.json
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets\msbuild.Portfolio-Website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\vnass\Desktop\Projects\Portfolio-Website\Portfolio-Website\obj\Debug\net8.0\swae.build.ex.cache

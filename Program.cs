@@ -6,6 +6,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+//delete this after testing game API
+builder.Services.AddHttpClient("GameApi", client =>
+{
+    client.BaseAddress = new Uri("https://localhost:7248");
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
